@@ -4,6 +4,7 @@
   "description": "Make your home work",
   "main": "index.js",
   "dependencies": {
+    "algorithmia": "^0.3.10",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
